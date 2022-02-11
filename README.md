@@ -1,6 +1,6 @@
 # CDS-5950-Capstone
 
-This repository consists of content produced for my Computational Data Science Capstone course such as weekly data viz challenges and my final project. My goal for this class was to really emphasize writing clean, tidy, and well-documented code.
+This repository consists of content produced for my Computational Data Science Capstone course such as weekly data viz challenges and my final project. My goal for this class was to really emphasize writing clean, tidy, and well-documented code. My code and viz files can be found in their respective folders while a quick weekly writeup including data sources can be found below.
 
 ---
 
