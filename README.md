@@ -12,3 +12,10 @@ This week utilized data from [Tidy Tuesday](https://github.com/rfordatascience/t
 
 ---
 
+## Week 2: Olympic Data
+
+In honor of the 2022 Winter Olympics currently in full swing, week 2 revolved around the [Olympic medals Kaggle dataset](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results). One of our viz must have utilized the {gt} package in R. This package is amazing for creating data tables and there is even a {gtExtras} package created by [Tom Mock](https://twitter.com/thomas_mock) that allows for really cool advanced customizations. I ended up creating a table that displays the top 10 most dominant Olympic performances in history in terms of gold medal share. This package is a must-have in any data scientist's toolbox.
+
+![gt](https://github.com/maxbolger/CDS-5950-Capstone/blob/main/Wk2_Olympics_Paralympics/wk2_gt.png)
+
+---
