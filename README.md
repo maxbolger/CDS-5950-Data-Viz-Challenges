@@ -1,6 +1,6 @@
 # CDS-5950-Capstone Weekly Data Viz Challenges
 
-This repository consists of content produced for my computational data science capstone course's weekly data viz challenges. My code and viz can be found in their respective folders or by clicking the respective week in the table below. Additionally, clicking the data set in the table will direct you to the TidyTuesday repo for the that data.
+This repository consists of content produced for my computational data science capstone course's weekly data viz challenges. My code and viz can be found in their respective folders or by clicking the respective week in the table below. Additionally, clicking the data set in the table will direct you to the TidyTuesday repo for the that data. Below the table are my three favorite viz from the semester. 
 
 ---
 
@@ -15,3 +15,15 @@ This repository consists of content produced for my computational data science c
 | [Week 7](https://github.com/maxbolger/CDS-5950-Data-Viz-Challenges/tree/main/Wk7_NCAA_W_Bball) | [NCAA Women's Basketball](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-10-06/readme.md) |
 | [Week 8](https://github.com/maxbolger/CDS-5950-Data-Viz-Challenges/tree/main/Wk8_Tate_Art_Museum) | [The Tate Museum](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-01-12/readme.md) |
 | [Week 9](https://github.com/maxbolger/CDS-5950-Data-Viz-Challenges/tree/main/Wk9_Water_Sources)| [Water Sources](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-05-04/readme.md) |
+
+---
+
+## My favorite three viz from the semester
+
+![](https://github.com/maxbolger/CDS-5950-Data-Viz-Challenges/blob/main/Wk5_Women's_World_Cup/wk5_shutouts.png)
+
+![](https://github.com/maxbolger/CDS-5950-Data-Viz-Challenges/blob/main/Wk7_NCAA_W_Bball/wk7_wncaa_W.png)
+
+![](https://github.com/maxbolger/CDS-5950-Data-Viz-Challenges/blob/main/Wk3_Taylor_Swift/wk3_tfidf.png)
+
+
